@@ -51,5 +51,5 @@ Selected Course Project
 Course: 10-701 Introduction to Machine Learning
 * Built 2 models with PyTorch, one using CNN+CNN for vision and language, the other using CNN+Transformer.
 * Applied hierarchical attention mechanism for CNN+CNN model, achieving results comparable to LSTM-based models.
-* Trained models with 10K images from MSCOCO dataset, demonstrating the CNN+Transformer model outperforms CNN-and LSTM-based models by 10%, with a BLEU-1 score around 70. See our final report [here](https://jiaweiguo.github.io/files/10701_final_report.pdf).
+* Trained models with 10K images from MSCOCO dataset, demonstrating the CNN+Transformer model outperforms CNN-and LSTM-based models by 10%, with a BLEU-1 score around 70. See our final report [here](https://gjwei1999.github.io/files/10701_final_report.pdf).
 
