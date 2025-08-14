@@ -47,6 +47,9 @@ Nov. 2020-Jun. 2021
 
 Selected Course Project
 ------
+**LLM Fine-tuning with Low-Rank Adaption (LoRA)**\
+Course: 10-707 Advanced Deep Learning
+* Implemented LoRA for fine-tuning BLOOM-1b7 LLM, demonstrating a 50% reduction in GPU memory consumption, achieving comparable performance to traditional full fine-tuning. See the final report [here](https://gjwei1999.github.io/files/10707_final.pdf). 
 **Image Captioning : Exploring CNN + CNN And CNN + Transformer Model**\
 Course: 10-701 Introduction to Machine Learning
 * Built 2 models with PyTorch, one using CNN+CNN for vision and language, the other using CNN+Transformer.
